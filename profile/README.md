@@ -1,12 +1,12 @@
-# Enverge Labs
+# Enverge.ai Labs
 
 **Greener, cheaper AI infrastructure — built for researchers, not datacenter overhead.**
 
-We run GPU workloads on renewable energy, ship devtools that feel like a local workstation, and publish open playgrounds for LLMs, RAG, and context-quality research.
+We run GPU workloads on renewable, excess, wasted and stranded energy, ship devtools that feel like a local workstation, and publish open playgrounds for LLMs, RAG, and context-quality research.
 
 ---
 
-### Products
+### Experiments
 
 | | What it is | Link |
 |---|------------|------|
