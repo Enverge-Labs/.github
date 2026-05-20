@@ -1,1 +1,49 @@
-# .github
+# Enverge Labs
+
+**Greener, cheaper AI infrastructure — built for researchers, not datacenter overhead.**
+
+We run GPU workloads on renewable energy, ship devtools that feel like a local workstation, and publish open playgrounds for LLMs, RAG, and context-quality research.
+
+---
+
+### Products
+
+| | What it is | Link |
+|---|------------|------|
+| **DGX Spark Cloud** | Rent a dedicated NVIDIA DGX Spark (GB10, 128GB unified memory). Bare-metal SSH, Docker, CUDA 12.8. | [spark.enverge.ai](https://spark.enverge.ai/) |
+| **Enverge Lab** | Git-native Python notebooks → production apps in one click. Pay only for training time. | [enverge.ai](https://enverge.ai/) |
+| **Enverge CLI** | Self-serve GPU access from your terminal. | [`enverge-cli`](https://github.com/Enverge-Labs/enverge-cli) |
+
+---
+
+### Open source
+
+Research tools, starters, and demos we use in the wild:
+
+- [**evergreen-context-rot**](https://github.com/Enverge-Labs/evergreen-context-rot) — Interactive extension of [Chroma’s Context Rot](https://research.trychroma.com/context-rot) report; run on Ollama models locally.
+- [**LLM-Playground**](https://github.com/Enverge-Labs/LLM-Playground) — Experiments and notebooks for LLM workflows.
+- [**Memory-Context-and-RAG-Comparison-Tool**](https://github.com/Enverge-Labs/Memory-Context-and-RAG-Comparison-Tool) — Compare memory, context, and RAG setups side by side.
+- [**starter**](https://github.com/Enverge-Labs/starter) / [**starter-with-ollama**](https://github.com/Enverge-Labs/starter-with-ollama) — Quickstarts for Enverge Lab and local Ollama.
+
+---
+
+### Why Enverge?
+
+- **100% green energy** — workloads powered by renewables, often surplus capacity.
+- **Research-first pricing** — DGX Spark from ~$0.48/hr vs typical H100/H200 hourly rates.
+- **SSH-native** — `ssh` into real GPU hardware; no opaque notebook sandboxes required.
+- **Blackwell-ready** — develop on GB10 (SM 10.0) before you commit to enterprise clusters.
+
+---
+
+### Links
+
+[![Website](https://img.shields.io/badge/website-enverge.ai-10b981?style=for-the-badge)](https://enverge.ai/)
+[![DGX Spark Cloud](https://img.shields.io/badge/DGX%20Spark%20Cloud-spark.enverge.ai-0a0c10?style=for-the-badge)](https://spark.enverge.ai/)
+[![CLI](https://img.shields.io/badge/cli-enverge--cli-10b981?style=for-the-badge)](https://github.com/Enverge-Labs/enverge-cli)
+
+**Get access:** [Request access](https://spark.enverge.ai/) · [Join the beta](https://enverge.ai/)
+
+---
+
+<sub>© Enverge Labs · Questions: open an issue or reach us via [enverge.ai](https://enverge.ai/).</sub>
