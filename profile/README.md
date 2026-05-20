@@ -4,12 +4,12 @@
 
 We run GPU workloads on renewable, excess, wasted and stranded energy; ship devtools that feel like a local workstation; and publish open playgrounds for LLMs, RAG, and context research.
 
-> [!IMPORTANT]
+> [!TIP]
 > **DGX Spark Cloud**
 >
 > Your own GB10 rig in the cluster — SSH, Docker, full CUDA stack; not a time-shared notebook sandbox.
 >
-> Dedicated **NVIDIA DGX Spark** (GB10, 128 GB unified memory). Bare-metal **SSH**, **Docker**, **CUDA 12.8** — **[spark.enverge.ai](https://spark.enverge.ai/)**
+> Dedicated **NVIDIA DGX Spark** (GB10, 128 GB unified memory). Bare-metal **SSH**, **Docker**, **CUDA 12.8**
 >
 > **[Reserve your instance now → spark.enverge.ai](https://spark.enverge.ai/)**
 
