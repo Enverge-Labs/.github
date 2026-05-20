@@ -2,15 +2,24 @@
 
 **Greener, cheaper AI infrastructure — built for researchers, not datacenter overhead.**
 
-We run GPU workloads on renewable, excess, wasted and stranded energy, ship devtools that feel like a local workstation, and publish open playgrounds for LLMs, RAG, and context-quality research.
+Our flagship hosted product is **[DGX Spark Cloud on spark.enverge.ai](https://spark.enverge.ai/)**. We run GPU workloads on renewable, excess, wasted and stranded energy, ship devtools that feel like a local workstation, and publish open playgrounds for LLMs, RAG, and context-quality research.
+
+---
+
+### DGX Spark Cloud — main product
+
+**[spark.enverge.ai](https://spark.enverge.ai/)** is where we ship **DGX Spark Cloud**: rent a dedicated **NVIDIA DGX Spark** (GB10, **128 GB unified memory**) with bare-metal **SSH**, **Docker**, and **CUDA 12.8** — closer to a local workstation than a notebook sandbox.
+
+**→ [Rent NVIDIA DGX Spark Cloud → spark.enverge.ai](https://spark.enverge.ai/)**
 
 ---
 
 ### Experiments
 
+Labs and tooling we ship alongside Spark — try them out and tell us what breaks.
+
 | | What it is | Link |
 |---|------------|------|
-| **DGX Spark Cloud** | Rent a dedicated NVIDIA DGX Spark (GB10, 128GB unified memory). Bare-metal SSH, Docker, CUDA 12.8. | [spark.enverge.ai](https://spark.enverge.ai/) |
 | **Enverge Lab** | Git-native Python notebooks → production apps in one click. Pay only for training time. | [enverge.ai](https://enverge.ai/) |
 | **Enverge CLI** | Self-serve GPU access from your terminal. | [`enverge-cli`](https://github.com/Enverge-Labs/enverge-cli) |
 
@@ -38,11 +47,11 @@ Research tools, starters, and demos we use in the wild:
 
 ### Links
 
-[![Website](https://img.shields.io/badge/website-enverge.ai-10b981?style=for-the-badge)](https://enverge.ai/)
 [![DGX Spark Cloud](https://img.shields.io/badge/DGX%20Spark%20Cloud-spark.enverge.ai-0a0c10?style=for-the-badge)](https://spark.enverge.ai/)
+[![Website](https://img.shields.io/badge/website-enverge.ai-10b981?style=for-the-badge)](https://enverge.ai/)
 [![CLI](https://img.shields.io/badge/cli-enverge--cli-10b981?style=for-the-badge)](https://github.com/Enverge-Labs/enverge-cli)
 
-**Get access:** [Request access](https://spark.enverge.ai/) · [Join the beta](https://enverge.ai/)
+**Spark cloud:** [spark.enverge.ai](https://spark.enverge.ai/) · **Lab & beta:** [enverge.ai](https://enverge.ai/)
 
 ---
 
