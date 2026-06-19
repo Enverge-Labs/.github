@@ -44,6 +44,15 @@ Research tools, starters, and demos we use in the wild:
 
 ---
 
+### Writing
+
+Field notes on green GPU infra, LLMs, RAG & context research.
+
+[![Substack](https://img.shields.io/badge/substack-subscribe-ff6719?style=for-the-badge)](https://enverge.substack.com)
+[![Blog](https://img.shields.io/badge/blog-enverge.ai-10b981?style=for-the-badge)](https://spark.enverge.ai/blog)
+
+---
+
 ### Links
 
 [![DGX Spark Cloud](https://img.shields.io/badge/DGX%20Spark%20Cloud-spark.enverge.ai-0a0c10?style=for-the-badge)](https://spark.enverge.ai/)
