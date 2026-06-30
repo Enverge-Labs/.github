@@ -51,6 +51,14 @@ Field notes on green GPU infra, LLMs, RAG & context research.
 [![Substack](https://img.shields.io/badge/substack-subscribe-ff6719?style=for-the-badge)](https://enverge.substack.com)
 [![Blog](https://img.shields.io/badge/blog-enverge.ai-10b981?style=for-the-badge)](https://spark.enverge.ai/blog)
 
+From [spark.enverge.ai/blog](https://spark.enverge.ai/blog):
+
+- **[How fast is the DGX Spark, really? Prefill vs. decode, and the 273 GB/s wall](https://spark.enverge.ai/blog/dgx-spark-prefill-vs-decode)** — Why DGX Spark decode tops out around 3 tok/s on dense 70B models — and why prefill, MoE models, and batched serving tell a very different story.
+- **[The Cheapest Way to Run a 70B Model Locally in 2026](https://spark.enverge.ai/blog/cheapest-way-to-run-a-70b-model-locally)** — The cheapest way to run a 70B model locally, compared: DGX Spark, GB10 clones, Mac Studio, RTX 5090, and cloud rental — with specs, prices, and break-even math.
+- **[How (and Why) to Quantize LLMs on NVIDIA DGX Spark](https://spark.enverge.ai/blog/quantize-llms-on-dgx-spark)** — Quantize LLMs on NVIDIA DGX Spark using NVFP4, FP8, and GGUF. Step-by-step calibration, evaluation, and tradeoffs for Llama 3.1 70B — under $2 of compute.
+- **[Running Research Experiments on DGX Spark: Why Smaller VRAM Can Be Cheaper for Iterative AI](https://spark.enverge.ai/blog/running-research-experiments-dgx-spark-vram-vs-cost)** — Why H100s are overkill for iterative research — and how DGX Spark at $0.65/hr lets you run 5–8x more experiment variants for the same budget.
+- **[Run AI Agents Locally: OpenClaw, Local LLMs, and Why the Cloud Should Be Yours](https://spark.enverge.ai/blog/run-ai-agents-locally-openclaw-local-llm)** — Why building AI agents on API calls is expensive and insecure — and how running OpenClaw with local LLMs on Spark Cloud keeps your data private while cutting costs by half.
+
 ---
 
 ### Links
